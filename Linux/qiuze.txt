@@ -1,0 +1,12 @@
+~$ mkdir dir1
+~$ mkdir docs
+~$ cd dir1
+~/dir1$ mkdir dir11
+~/dir1$ mkdir dir12
+~/dir1$ cd dir11
+~/dir1/dir11$ touch file1
+~/dir1/dir11$ cd ..
+~/dir1$ cd ..
+~$ cd docs
+~/docs$ touch cv
+~/docs$ 
