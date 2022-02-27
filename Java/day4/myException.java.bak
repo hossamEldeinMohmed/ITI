@@ -1,0 +1,6 @@
+
+public class myException extends Exception { 
+    public myException() {
+        super("woops this is negative");
+    }
+}
